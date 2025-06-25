@@ -1,7 +1,7 @@
 {
   "name": "ai-vulnerability-scanner",
   "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -14,7 +14,16 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "recharts": "^2.8.0",
-    "framer-motion": "^10.16.16"
+    "framer-motion": "^10.16.16",
+    "firebase": "^10.7.1",
+    "react-router-dom": "^6.20.1",
+    "axios": "^1.6.2",
+    "socket.io-client": "^4.7.4",
+    "react-hot-toast": "^2.4.1",
+    "react-hook-form": "^7.48.2",
+    "date-fns": "^2.30.0",
+    "uuid": "^9.0.1",
+    "@types/uuid": "^9.0.7"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
